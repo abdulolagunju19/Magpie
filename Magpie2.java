@@ -1,7 +1,4 @@
 //Abdul-Samad Olagunju
-//Ms. Dalal
-//AP Computer Programming
-//November 1, 2018
 
 import java.util.*;
 
